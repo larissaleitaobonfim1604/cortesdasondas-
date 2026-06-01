@@ -1,3 +1,19 @@
 h1{
-color: pink;
-front - size : 100px;
+color: rgb(38, 202, 202);
+font-size:100px ;
+text-align: center;
+background-color: rgb(14, 194, 194) rgb(121, 107, 194);
+}
+
+h2{
+    color: rgb(255, 89, 213);
+    font-size: 50px;
+    text-align: center;
+}
+body{
+    background-color: rgb(228, 228, 246);
+    color: black;
+}
+img{
+    width: 100px;
+}
