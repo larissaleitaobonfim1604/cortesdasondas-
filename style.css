@@ -11,9 +11,22 @@ h2{
     text-align: center;
 }
 body{
-    background-color: rgb(228, 228, 246);
-    color: black;
+    background-image:url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU0bWtxZHh1bGFtZ2pqdm90d2s2ZWY3Ymhna21zNXY3eHdoODRhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tsVy43fVemIsfe4o6t/giphy.gifS");
+    background-size: 300px;
+
 }
 img{
-    width: 100px;
+    width: 300px;
+}
+footer{
+    background-color: aliceblue;
+}
+.imagem{
+    text-align: center;
+    background-color: rgb(196, 48, 151);
+    width: 400px;
+    margin: auto;
+    border-style: dashed;
+    border-radius: 50px;
+    border-bottom: 50px;
 }
