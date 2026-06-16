@@ -11,7 +11,7 @@ h2{
     text-align: center;
 }
 body{
-    background-image:url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU0bWtxZHh1bGFtZ2pqdm90d2s2ZWY3Ymhna21zNXY3eHdoODRhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tsVy43fVemIsfe4o6t/giphy.gifS");
+    background-image: url("https://64.media.tumblr.com/c296b65b45c6fe52e3e0cae3db7be5a5/9958f4438a3896f2-f9/s640x960/346cea518cdf282f0f8c5c8ecf796895f7b5a984.gif");
     background-size: 300px;
 
 }
@@ -23,7 +23,7 @@ footer{
 }
 .imagem{
     text-align: center;
-    background-color: rgb(196, 48, 151);
+    background-color: rgb(196, 48, 48);
     width: 400px;
     margin: auto;
     border-style: dashed;
