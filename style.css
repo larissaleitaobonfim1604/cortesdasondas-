@@ -28,5 +28,6 @@ footer{
     margin: auto;
     border-style: dashed;
     border-radius: 50px;
-    border-bottom: 50px;
+    margin-bottom: 50px;
+    border-color: rgb(0, 0, 0);
 }
