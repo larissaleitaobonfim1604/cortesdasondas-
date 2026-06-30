@@ -1,5 +1,5 @@
 header{
-    background-color: brown;
+    background-color: rgb(55, 179, 201);
     padding: 20px;
 }
 nav{
@@ -22,5 +22,9 @@ nav a{
 .caixa{
     position: relative;
     width: 940px;
+    height: 200px;
     margin: 0 auto;
+}
+h1 img{
+    width: 150px;
 }
